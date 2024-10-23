@@ -72,9 +72,3 @@ To get this project running locally, follow these steps:
 - JavaScript (ES6+)
 - Vite.js
 - React Icons
-
-## License
-This project is licensed under the MIT License.
-```
-
-Let me know if you'd like further adjustments or if you need additional customization for this project!
